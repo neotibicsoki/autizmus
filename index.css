@@ -1,0 +1,44 @@
+ * {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+     font-family: 'Times New Roman', Times, serif;
+ }
+ 
+ body {
+     color: maroon;
+     background-color: maroon;
+ }
+ 
+ #tabla {
+     width: 80%;
+     margin: auto;
+     background-color: #FAEBD7;
+ }
+ 
+ table,
+ td,
+ tr {
+     border: 1px solid white;
+ }
+ 
+ .kozep {
+     text-align: center;
+     vertical-align: center;
+ }
+ 
+ .keret {
+     border: 1px solid black;
+ }
+ 
+ .kep {
+     float: right;
+ }
+ 
+ .float p {
+     float: left;
+ }
+ 
+ .float {
+     clear: both;
+ }
